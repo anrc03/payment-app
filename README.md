@@ -1,6 +1,6 @@
 PAYMENT APPLICATION API
 ---
-This API enables customer to do payment to merchant. No payment limit. Customer needs to be registered and logged in to do payment.
+This API enables customer to do payment to merchant. No limit for payment amount. Customer needs to be registered and logged in to do payment.
 <br>
 <br>
 How to use the API:
